@@ -9,4 +9,5 @@ e.	Documentos que serão encontrados no repositório (criaremos links para cada 
 <ul>
   <li><a href="Requisitos de Usuário/RF.md">Requisitos Funcionais</a></li>
   <li><a href="Requisitos de Usuário/RNF.md">Requisitos Não Funcionais</a></li>
+  <li><a href="Requisitos de Usuário/HistoriasUsuario.md">História de Usuário</a></li>
 </ul>
