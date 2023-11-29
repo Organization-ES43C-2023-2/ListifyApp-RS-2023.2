@@ -39,8 +39,8 @@ A Tabela 3 a seguir contém as Histórias de Usuárias elicitadas.
         <tr>
             <span id="ustory-01"></span>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">US04</td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Eu, como usuário regular, quero incluir à lista os itens que preciso comprar, incluindo a quantidade e marca.</td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1"><ol><li>Os usuários devem poder específicar o tipo de produto que querem comprar, como nome, quantidade e marca.</li></ol></td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Eu, como usuário regular, quero incluir à lista os itens que preciso comprar.</td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1"><ol><li>Os usuários devem poder específicar o tipo de produto que querem comprar.</li></ol></td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Alta</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">RF04</td>
         </tr>
