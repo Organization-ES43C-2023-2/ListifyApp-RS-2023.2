@@ -84,6 +84,14 @@ A Tabela 3 a seguir contém as Histórias de Usuárias elicitadas.
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Baixa</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">RF09</td>
         </tr>
+     <tr>
+            <span id="ustory-01"></span>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">US10</td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Eu, como usuário regular, quero informar a categoria da lista de acordo com a finalizade.</td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1"><ol><li>Os usuários devem ter capacidade de informar a categoria de suas listas de compras de acordo com a finalidade (alimentos perecíveis, não perecíveis, bebidas e etc).</li></ol></td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Baixa</td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">RF10</td>
+        </tr>
 </table>
 
 <div style="text-align: center">
