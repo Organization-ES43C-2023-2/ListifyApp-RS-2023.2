@@ -13,7 +13,7 @@
 | RF07 | Marcar como comprados | O sistema deve permitir que o usuário possa marcar os itens já adquiridos. |    Alta    |    RF04    |
 | RF08 | Buscar por itens | O sistema deve permitir que o usuário busque itens específicos na lista e verificar sua situação. |    Baixa   |      -     |
 | RF09 | Classificar lista | O sistema deve permitir que o usuário classifique suas listas de compras de acordo com a finalidade desejada, além de nomeá-las.  |    Baixa   |      -     |
-| RF10 | Informar categoria da lista | O sistema deve permitir que o usuário informe a categoria de suas listas de compras de acordo com a finalidade desejada|    Baixa   |      -     |
+| RF10 | Informar categoria da lista | O sistema deve permitir que o usuário informe a categoria de suas listas de compras de acordo com a finalidade desejada|    Baixa   |      RF09     |
 
 <div style="text-align: center">
 <p>Tabela 1: Requisitos Funcionais</p>
